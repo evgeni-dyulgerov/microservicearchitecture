@@ -1,0 +1,13 @@
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.deps.json
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.runtimeconfig.json
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.runtimeconfig.dev.json
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csproj.CopyComplete
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb

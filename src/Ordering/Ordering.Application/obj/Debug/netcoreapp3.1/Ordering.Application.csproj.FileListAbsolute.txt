@@ -1,0 +1,13 @@
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.deps.json
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.pdb
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csprojAssemblyReference.cache
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfoInputs.cache
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfo.cs
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CopyComplete
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.pdb

@@ -1,0 +1,7 @@
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.deps.json
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfoInputs.cache
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfo.cs
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\Evgeni\source\repos\MicroservicesApp\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.pdb
